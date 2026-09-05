@@ -1,0 +1,11 @@
+{
+  "name": "GCam AI Pro Camera",
+  "description": "Professional AI camera web application with 50MP Real Hardware Sensor, Settings Feature Toggles, Night Vision IR, Thermal FLIR Heatmap, Xenon Strobe flash, Auto Light tone mapping, 100x super zoom, real-time AI skeleton tracking, and cloud gallery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
